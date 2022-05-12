@@ -1,10 +1,10 @@
-<<<<<<< HEAD
 /*
 html {
     background-image: url("img/5837749f-f809-49c0-b588-eeadf9f60e81.jpg");
     background-position: left top;
     background-repeat: repeat;
 }
+teszt
 */
 
 
@@ -66,7 +66,6 @@ img {
     width: 300px;
     margin-top: 10px;
     /* margin: 0.02% */;
-=======
 /*
 html {
     background-image: url("img/5837749f-f809-49c0-b588-eeadf9f60e81.jpg");
@@ -135,5 +134,4 @@ img {
     width: 300px;
     margin-top: 10px;
     /* margin: 0.02% */;
->>>>>>> 556afdba61757f34935be5058f5f9a911d3fc41a
 }
