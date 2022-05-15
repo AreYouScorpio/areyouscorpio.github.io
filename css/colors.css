@@ -7,6 +7,9 @@ html {
 */
 
 
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
+
 
 body {
    background-color: #f0f0f0;
@@ -25,6 +28,14 @@ body {
     padding: 3px;
     display: block;
     margin-bottom: 7px;
+}
+
+#bioheader {
+    color: rebeccapurple;
+}
+
+.content {
+    color: red;
 }
 
 .login-div input[type="email"] {
@@ -50,10 +61,13 @@ ul li:first-child {
 
 ul li:nth-child(2) {
     color: blueviolet;
+    font-family: monospace;
 }
+
 
 h1 {
     color: blue;
+    text-transform: uppercase ;
 }
 
 p  {
@@ -66,3 +80,4 @@ img {
     margin-top: 10px;
     /* margin: 0.02% */;
 }
+
