@@ -67,7 +67,7 @@ ul li:nth-child(2) {
 
 h1 {
     color: blue;
-    text-transform: uppercase ;
+    /* text-transform: uppercase ; */
 }
 
 p  {
